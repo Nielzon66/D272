@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55723423/225168342-c7a69bdd-e3f7-4552-a259-b0dce0d07292.png">
+  <img src="https://br.pinterest.com/pin/696509898644908927/">
 </p>
 
 ## Instalação
